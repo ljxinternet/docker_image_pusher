@@ -36,7 +36,6 @@ herberthe0229/iptv-sources:latest
 redislabs/redisinsight:latest
 pymumu/smartdns:latest
 adguard/adguardhome:v0.107.48
-inetworkstatic/iperf3:latest
 diygod/rsshub:latest
 eclipse-mosquitto:latest
 nodered/node-red:latest
